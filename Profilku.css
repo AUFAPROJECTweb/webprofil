@@ -52,7 +52,7 @@
     transition: background-color 0.3s ease, color 0.3s ease; 
 }
 body {
-    background-color: #ccffff;
+    background: linear-gradient(aqua, rgb(20, 255, 177), rgb(0, 158, 87));
 }
 
 .y {
@@ -206,4 +206,5 @@ body {
 
 .li-web {
     text-align: left ;
+
 }
