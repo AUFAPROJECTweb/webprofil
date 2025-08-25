@@ -51,8 +51,9 @@
     cursor: pointer;
     transition: background-color 0.3s ease, color 0.3s ease; 
 }
+
 body {
-    background: linear-gradient(aqua, rgb(20, 255, 177), rgb(0, 158, 87));
+    background: linear-gradient(rgb(0, 255, 255), rgb(20, 255, 177), rgb(0, 158, 87));
 }
 
 .y {
@@ -208,3 +209,4 @@ body {
     text-align: left ;
 
 }
+
